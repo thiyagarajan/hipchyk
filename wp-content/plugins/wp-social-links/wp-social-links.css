@@ -1,0 +1,48 @@
+/* wp social links default css
+wp_deregister_style or remove_action to use your own.  */
+.wp-social-links {
+	display:inline;
+	vertical-align:middle;
+}
+.wp-social-links a.social_link {
+	width:16px;
+	height:16px;
+	display:inline-block;
+	text-indent:-10000em;
+}
+.wp-social-links a.facebook {
+	background:url(icons/facebook.png) left;
+}
+.wp-social-links a.twitter {
+	background:url(icons/twitter.png) left;
+}
+.wp-social-links a.myspace {
+	background:url(icons/myspace.png) left;
+}
+.wp-social-links a.vimeo {
+	background:url(icons/vimeo.png) left;
+}
+.wp-social-links a.rss {
+	background:url(icons/rss.png) left;
+}
+.wp-social-links a.tumblr {
+	background:url(icons/tumblr.png) left;
+}
+.wp-social-links a.blogger {
+	background:url(icons/blogger.png) left;
+}
+.wp-social-links a.flickr {
+	background:url(icons/flickr.png) left;
+}
+.wp-social-links a.email {
+	background:url(icons/email.png) left;
+}
+.wp-social-links a.podcast {
+	background:url(icons/podcast.png) left;
+}
+.wp-social-links a.youtube {
+	background:url(icons/youtube.png) left;
+}
+.wp-social-links a.social_link:hover {
+	background-position:right;
+}

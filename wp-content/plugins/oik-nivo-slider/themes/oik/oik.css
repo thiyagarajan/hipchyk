@@ -1,0 +1,88 @@
+/*
+Skin Name: Nivo Slider OIK theme
+Skin URI: http://www.oik-plugins.com
+Skin Type: flexible
+Description: The OIK skin for the Nivo Slider.
+Version: 1.0
+Author: Herb Miller of bobbing wide
+Author URI: http://www.oik-plugins.com
+*/
+
+.theme-oik .nivoSlider {
+	position:relative;
+	background:#fff url(loading.gif) no-repeat 50% 50%;
+    margin-bottom:50px;
+    -webkit-box-shadow: 0px 1px 5px 0px #4a4a4a;
+    -moz-box-shadow: 0px 1px 5px 0px #4a4a4a;
+    box-shadow: 0px 1px 5px 0px #4a4a4a;
+}
+.theme-oik .nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+	display:none;
+}
+.theme-oik .nivoSlider a {
+	border:0;
+	display:block;
+}
+
+.theme-oik .nivo-controlNav {
+	position:absolute;
+	left:50%;
+	bottom:-42px;
+    margin-left:-40px; /* Tweak this to center bullets */
+}
+.theme-oik .nivo-controlNav a {
+	display:block;
+	width:22px;
+	height:22px;
+	background:url(bullets.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+	margin-right:3px;
+	float:left;
+}
+.theme-oik .nivo-controlNav a.active {
+	background-position:0 -22px;
+}
+
+.theme-oik .nivo-directionNav a {
+	display:block;
+	width:30px;
+	height:30px;
+	background:url(arrows.png) no-repeat;
+	text-indent:-9999px;
+	border:0;
+}
+.theme-oik a.nivo-nextNav {
+	background-position:-30px 0;
+	right:15px;
+}
+.theme-oik a.nivo-prevNav {
+	left:15px;
+}
+
+/* You can't turn the caption off using CSS display:none as the jQuery overrides it. */
+.theme-oik .nivo-caption {  
+  font-family: Helvetica, Arial, sans-serif;  
+  background-color: #359315;
+  border: 1px solid #359315;
+  border-radius: 4px; 
+  margin: 0px 20px 10px 20px; 
+  width: auto; 
+}
+
+.theme-oik .nivo-caption:hover, nivo-caption-hovered {
+  text-decoration: underline; cursor: pointer;
+  background: #159374;
+  border: 1px solid #359315;
+}
+
+.theme-oik .nivo-caption a {
+    color:#fff; background-color: #00ff00;
+    border-bottom:1px dotted #fff;
+}
+.theme-oik .nivo-caption a:hover {
+    color:#fff;
+}

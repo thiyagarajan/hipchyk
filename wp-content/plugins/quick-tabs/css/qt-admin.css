@@ -1,0 +1,37 @@
+.wrap *{
+   
+    letter-spacing: 1px;
+}
+
+input[type=text],textarea{
+ 
+    
+}
+
+input{
+   padding: 4px 7px;
+}
+.cfile{margin: 2px;border:1px solid #008000;background: #F3FFF2;overflow:hidden;padding:5px;} 
+.dfile{margin: 2px;border:1px solid #800;background: #ffdfdf;overflow:hidden;padding:5px;} 
+.cfile img, .dfile img{cursor: pointer;}
+.inside{padding:10px !important;}
+#editorcontainer textarea{border:0px;width:99.9%;}
+#file_uploadUploader {background: transparent url('<?php echo plugins_url(); ?>/download-manager/images/browse.png') left top no-repeat; }
+#file_uploadUploader:hover {background-position: left bottom; }
+.frm td{line-height: 30px; border-bottom: 1px solid #EEEEEE; padding:5px; font-size:9pt;font-family: Tahoma;}
+.hndle {padding:8px;margin:0px;font-size:9pt;}
+.inside{padding:0px !important;margin:0px;}
+.submitbox{margin: 0px;;}
+.actionbar{
+    -webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-moz-border-radius-bottomright: 5px;
+-moz-border-radius-bottomleft: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+background: #EEEEEE;
+}
+.insidec{padding:5px;}
+.tabs{padding:5px;margin:0px;}
+.tabs li{padding:5px 10px;margin:3px;float:left;text-align:center;}
+.sortable li {cursor: w-resize;}
