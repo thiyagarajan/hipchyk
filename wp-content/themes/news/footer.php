@@ -69,21 +69,11 @@
         		</div>
       		</div>
       		<div class="one-fourth">
-        		<div class="widget">
-          			<div class="header">FLICKR</div>
-          			<div class="flickr">
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-1.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-2.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-3.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-4.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-5.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-6.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-7.jpg" width="58" height="58" alt="" /><i></i></a>
-            			<a href="#" class="alignleft-f"><img src="http://localhost/hipchyk/wp-content/themes/news/images/58x58-8.jpg" width="58" height="58" alt="" /><i></i></a>
-          			</div>
-        		</div>
-      		</div>
+                    		<div class="widget">
+                      			<div class="header">NOW WORKING</div>
+                                <?php if (function_exists('get_thethe_image_slider')) { print get_thethe_image_slider('footer'); } ?>
+                    		</div>
+            </div>
 
     		<div class="one-fourth">
       			<div class="widget">

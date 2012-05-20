@@ -1,0 +1,863 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/promotion-slider\n"
+"POT-Creation-Date: 2011-03-09 22:39:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/register_tax.php:31 classes/post_type.php:56
+msgid "Search "
+msgstr ""
+
+#: classes/register_tax.php:32
+msgid "Popular "
+msgstr ""
+
+#: classes/register_tax.php:33
+msgid "All "
+msgstr ""
+
+#: classes/register_tax.php:34
+msgid "Parent "
+msgstr ""
+
+#: classes/register_tax.php:35
+msgid "Parent %s:"
+msgstr ""
+
+#: classes/register_tax.php:36 classes/post_type.php:53
+msgid "Edit "
+msgstr ""
+
+#: classes/register_tax.php:37
+msgid "Update "
+msgstr ""
+
+#: classes/register_tax.php:38 classes/post_type.php:51
+#: classes/post_type.php:52
+msgid "Add New "
+msgstr ""
+
+#: classes/register_tax.php:39
+msgid "New %s Name"
+msgstr ""
+
+#: classes/register_tax.php:40
+msgid "Separate %s with commas"
+msgstr ""
+
+#: classes/register_tax.php:41
+msgid "Add or remove "
+msgstr ""
+
+#: classes/register_tax.php:42
+msgid "Choose from the most used "
+msgstr ""
+
+#: classes/post_type.php:54
+msgid "New "
+msgstr ""
+
+#: classes/post_type.php:55
+msgid "View "
+msgstr ""
+
+#: classes/post_type.php:57
+msgid "No %s found"
+msgstr ""
+
+#: classes/post_type.php:58
+msgid "No %s found in Trash"
+msgstr ""
+
+#: index.php:29
+msgid ""
+"Sorry, this plugin requires PHP version %s or later. You are currently "
+"running version %s."
+msgstr ""
+
+#: index.php:72
+msgid "Promotion"
+msgstr ""
+
+#: index.php:73
+msgid "Promotions"
+msgstr ""
+
+#: index.php:80
+msgid "Category"
+msgstr ""
+
+#: index.php:81 index.php:457 includes/help.add_new_promotion.php:21
+msgid "Categories"
+msgstr ""
+
+#: index.php:114 index.php:213 index.php:221
+#: includes/help.add_new_promotion.php:9 includes/options_page.php:3
+msgid "Promotion Slider Options"
+msgstr ""
+
+#: index.php:163
+msgid ""
+"Sorry, this plugin requires WordPress version %d or later. You are currently "
+"running version %s."
+msgstr ""
+
+#: index.php:222
+msgid "Slider Options"
+msgstr ""
+
+#: index.php:477
+msgid "No Categories"
+msgstr ""
+
+#: includes/help.promotions.php:1
+msgid "You can customize the display of this screen in a number of ways:"
+msgstr ""
+
+#: includes/help.promotions.php:4
+msgid ""
+"You can hide/display columns based on your needs and decide how many "
+"promotions to list per screen using the Screen Options tab."
+msgstr ""
+
+#: includes/help.promotions.php:5
+msgid ""
+"You can filter the list of promotions by status using the text links in the "
+"upper left to show All, Published, Draft, or Trashed posts. The default view "
+"is to show all promotions."
+msgstr ""
+
+#: includes/help.promotions.php:6
+msgid ""
+"You can view promotions in a simple title list or with an excerpt. Choose "
+"the view you prefer by clicking on the icons at the top of the list on the "
+"right."
+msgstr ""
+
+#: includes/help.promotions.php:7
+msgid ""
+"You can refine the list to show only promotions in a specific category or "
+"from a specific month by using the dropdown menus above the promotions list. "
+"Click the Filter button after making your selection. You also can refine the "
+"list by clicking on the promotion author or category in the promotions list."
+msgstr ""
+
+#: includes/help.promotions.php:10
+msgid ""
+"Hovering over a row in the promotions list will display action links that "
+"allow you to manage your promotion. You can perform the following actions:"
+msgstr ""
+
+#: includes/help.promotions.php:13
+msgid ""
+"Edit takes you to the editing screen for that promotion. You can also reach "
+"that screen by clicking on the promotion title."
+msgstr ""
+
+#: includes/help.promotions.php:14
+msgid ""
+"Quick Edit provides inline access to the metadata of your promotion, "
+"allowing you to update promotion details without leaving this screen."
+msgstr ""
+
+#: includes/help.promotions.php:15
+msgid ""
+"Trash removes your promotion from this list and places it in the trash, from "
+"which you can permanently delete it."
+msgstr ""
+
+#: includes/help.promotions.php:16
+msgid ""
+"Preview will show you what your draft promotion will look like if you "
+"publish it. View will take you to your live site to view the post. Which "
+"link is available depends on your promotion's status."
+msgstr ""
+
+#: includes/help.promotions.php:19
+msgid "You can also edit multiple promotions at once."
+msgstr ""
+
+#: includes/help.promotions.php:19
+msgid ""
+"Select the promotions you want to edit using the checkboxes, select Edit "
+"from the Bulk Actions menu and click Apply. You will be able to change the "
+"metadata (categories, author, etc.) for all selected promotions at once. To "
+"remove a promotion from the grouping, just click the x next to its name in "
+"the Bulk Edit area that appears."
+msgstr ""
+
+#: includes/help.promotions.php:21 includes/help.add_new_promotion.php:27
+#: includes/help.categories.php:14 includes/help.slider_options.php:26
+msgid "For more information:"
+msgstr ""
+
+#: includes/help.promotions.php:23
+msgid "Documentation on Managing Posts"
+msgstr ""
+
+#: includes/help.promotions.php:25 includes/help.add_new_promotion.php:31
+#: includes/help.categories.php:18 includes/help.slider_options.php:30
+msgid "Support Forums"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:1
+msgid ""
+"The title field and the big Promotion Editing Area are fixed in place, but "
+"you can reposition all the other boxes using drag and drop, and can minimize "
+"or expand them by clicking the title bar of the box. Use the Screen Options "
+"tab to hide/unhide boxes (Excerpt, Slug, Author, Promotion Slider Options, "
+"Categories, Featured Image) or to choose a 1- or 2-column layout for this "
+"screen."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:3
+msgid "Title"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:3
+msgid ""
+"Enter a title for your promotion. After you enter a title, you'll see the "
+"permalink below, which you can edit."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:5
+msgid "Promotion Editor"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:5
+msgid ""
+"Enter the text for your promotion. There are two modes of editing: Visual "
+"and HTML. Choose the mode by clicking on the appropriate tab. Visual mode "
+"gives you a WYSIWYG editor. Click the last icon in the row to get a second "
+"row of controls. The screen icon just before that allows you to expand the "
+"edit box to full screen. The HTML mode allows you to enter raw HTML along "
+"with your promotion text. You can insert media files by clicking the icons "
+"above the promotion editor and following the directions. <em>NOTE: Any "
+"content put within the promotion editor does not appear in the slider by "
+"default.  The slider panel associated with this promotion will, by default, "
+"link to the promotion page on which this content will appear.</em>"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:7
+msgid "Excerpt"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:7
+msgid ""
+"The excerpt is used as a brief overview of the promotion content.  If you "
+"have enabled the option to display the excerpt in the slider, the text in "
+"this box will appear.  If you have left the excerpt empty, WordPress will "
+"create an excerpt using the first few lines from the content."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:9
+msgid ""
+"This is where you can change the behavior for the current promotion.  There "
+"are three sections:"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:12 includes/meta_box.php:18
+msgid "Change Linking Behaviour"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:12
+msgid ""
+"By default, the slider panel for this promotion will link to the promotion "
+"page, which displays the content in the promotion editor. You can choose to "
+"open the link in the same window or a new one.  Providing a destination URL "
+"will override the default link to the promotion page, allowing you to direct "
+"users to another page on your site or another site altogether.  By checking "
+"the 'Disable all links for this promotion' checkbox, no links will be "
+"created."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:13 includes/meta_box.php:44
+msgid "Insert Ad Code"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:13
+msgid ""
+"Occasionally, you may wish to display ads using a third party system such as "
+"Google AdSense or OpenX.  Simply paste your ad code into the text box and "
+"then check the 'Display the ad code below rather than the featured image' "
+"checkbox.  If you do not check this box, your ad code will be retained for "
+"future use and the featured image will display."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:14 includes/meta_box.php:57
+msgid "Use Content Delivery Network"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:14
+msgid ""
+"If you host your images on another server, you can load them into the slider "
+"by providing the URL where the image is located."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:17
+msgid "Author"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:17
+msgid ""
+"You can change the author for a given promotion by making a selection in the "
+"provided dropdown box."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:19
+msgid "Publish"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:19
+msgid ""
+"You can set the terms of publishing your promotion in the Publish box. For "
+"Status, Visibility, and Publish (immediately), click on the Edit link to "
+"reveal more options. Visibility includes options for password-protecting a "
+"promotion or making it stay at the top of your promotions listing "
+"indefinitely (sticky). Publish (immediately) allows you to set a future or "
+"past date and time, so you can schedule a promotion to be published in the "
+"future or backdate a promotion."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:21
+msgid ""
+"You can assign your promotion to one or more categories, or can add a new "
+"category.  Categories allow you to keep your promotions organized.  You will "
+"be able to filter promotions by category in the admin area and users will be "
+"able to view a specific category of promotions by visiting the category "
+"page.  Using this plugin's shortcode, you can also create a slider that only "
+"displays promotions from a particular category."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:23
+msgid "Featured Image"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:23
+msgid ""
+"In order for an image to appear in the Promotion Slider, you must set a "
+"featured image!"
+msgstr ""
+
+#: includes/help.add_new_promotion.php:23
+msgid ""
+"First, click on the 'Set Featured Image' link in the Featured Image box.  "
+"You can either upload an image from your computer or use an image from your "
+"media library.  After uploading or selecting an image, click on the 'Use as "
+"featured image' link.  Once you have set the featured image, you should see "
+"the image appear within the Featured Image box."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:25
+msgid "You can also create posts with the Press This bookmarklet."
+msgstr ""
+
+#: includes/help.add_new_promotion.php:29
+msgid "Documentation on Writing and Editing Posts"
+msgstr ""
+
+#: includes/help.categories.php:1
+msgid ""
+"You can use categories to define sections of your site and group related "
+"promotions."
+msgstr ""
+
+#: includes/help.categories.php:3
+msgid ""
+"When adding a new category on this screen, you'll fill in the following "
+"fields:"
+msgstr ""
+
+#: includes/help.categories.php:6
+msgid "Name"
+msgstr ""
+
+#: includes/help.categories.php:6
+msgid "The name is how it appears on your site."
+msgstr ""
+
+#: includes/help.categories.php:7
+msgid "Slug"
+msgstr ""
+
+#: includes/help.categories.php:7
+msgid ""
+"The \"slug\" is the URL-friendly version of the name. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: includes/help.categories.php:8
+msgid "Parent"
+msgstr ""
+
+#: includes/help.categories.php:8
+msgid ""
+"Categories can have a hierarchy. You might have a Jazz category, and under "
+"that have children categories for Bebop and Big Band. Totally optional. To "
+"create a subcategory, just choose another category from the Parent dropdown."
+msgstr ""
+
+#: includes/help.categories.php:9
+msgid "Description"
+msgstr ""
+
+#: includes/help.categories.php:9
+msgid ""
+"The description is not prominent by default; however, some themes may "
+"display it."
+msgstr ""
+
+#: includes/help.categories.php:12
+msgid ""
+"You can change the display of this screen using the Screen Options tab to "
+"set how many items are displayed per screen and to display/hide columns in "
+"the table."
+msgstr ""
+
+#: includes/help.categories.php:16
+msgid "Documentation on Categories"
+msgstr ""
+
+#: includes/meta_box.php:22
+msgid "Select the behaviour for this link:"
+msgstr ""
+
+#: includes/meta_box.php:24
+msgid "-- Choose One --"
+msgstr ""
+
+#: includes/meta_box.php:25
+msgid "Open link in same page"
+msgstr ""
+
+#: includes/meta_box.php:26
+msgid "Open link in a new page"
+msgstr ""
+
+#: includes/meta_box.php:31
+msgid ""
+"By default, all links will point to this promotion page.  If you want to "
+"have your links point elsewhere, set the destination URL below."
+msgstr ""
+
+#: includes/meta_box.php:33
+msgid "Destination URL: "
+msgstr ""
+
+#: includes/meta_box.php:38
+msgid ""
+"If you just want to display the featured image and don't want to use this "
+"promotion page, you can disable all links here."
+msgstr ""
+
+#: includes/meta_box.php:41
+msgid "Disable all links for this promotion"
+msgstr ""
+
+#: includes/meta_box.php:47
+msgid ""
+"Use the options here to display third party ads, such as Google AdSense ads, "
+"on your slider."
+msgstr ""
+
+#: includes/meta_box.php:50
+msgid "Display the ad code below rather than the featured image"
+msgstr ""
+
+#: includes/meta_box.php:54
+msgid "Insert ad code here:"
+msgstr ""
+
+#: includes/meta_box.php:60
+msgid ""
+"If you use a content delivery network, such as Amazon CloudFront, you can "
+"define the url of the image here.  Please note that any URL in the box below "
+"will override the Featured Image in the slider."
+msgstr ""
+
+#: includes/meta_box.php:62
+msgid "CDN Image URL: "
+msgstr ""
+
+#: includes/help.slider_options.php:1
+msgid ""
+"If you have found this plugin to be helpful, please consider making a %"
+"sdonation%s!"
+msgstr ""
+
+#: includes/help.slider_options.php:3
+msgid ""
+"There are three sections that allow you to control the global settings for "
+"your promotion sliders.  Keep in mind that most of these settings can be "
+"overridden by using the shortcodes."
+msgstr ""
+
+#: includes/help.slider_options.php:5 includes/options_page.php:19
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/help.slider_options.php:5
+msgid ""
+"This section allows you to change general functionality of your sliders."
+msgstr ""
+
+#: includes/help.slider_options.php:7
+msgid "Start Slider On"
+msgstr ""
+
+#: includes/help.slider_options.php:7
+msgid ""
+"On each page load, this setting determines whether the first slide or a "
+"random slide should be displayed.  By default, all slides are ordered "
+"chronologically. If you wish to reorder your promotions, you can change the "
+"publish dates as needed or advanced users can use one of the provided hooks "
+"to alter the query for a slider."
+msgstr ""
+
+#: includes/help.slider_options.php:8
+msgid "Automatic Slide Advancement"
+msgstr ""
+
+#: includes/help.slider_options.php:8
+msgid ""
+"When enabled, slides will automatically progress at the time interval that "
+"has been set.  If you disable automatic advancement, a single slide will "
+"display until a user clicks on a link in the slider navigation.  Please be "
+"sure you have some form of slider navigation enabled if automatic "
+"advancement is disabled."
+msgstr ""
+
+#: includes/help.slider_options.php:9
+msgid "Set Slider Time Delay"
+msgstr ""
+
+#: includes/help.slider_options.php:9
+msgid ""
+"When automatic advancement is enabled, this time delay is used to determine "
+"how long to wait before advancing to the next slide."
+msgstr ""
+
+#: includes/help.slider_options.php:10
+msgid "Pause Slider on Mouse Hover"
+msgstr ""
+
+#: includes/help.slider_options.php:10
+msgid ""
+"Enabling this feature will suspend the automatic advancement of slides (if "
+"enabled) when a user's mouse is over the slider.  This allows users more "
+"time to view a particular slide before continuing to the next one."
+msgstr ""
+
+#: includes/help.slider_options.php:11
+msgid "Default Image Size"
+msgstr ""
+
+#: includes/help.slider_options.php:11
+msgid ""
+"When you upload an image, WordPress saves that image in several different "
+"sizes for you.  This option lets you choose which image size best fits your "
+"slider.  If you have created a custom image size, you utilize our plugin "
+"hooks to make the slider use your custom size."
+msgstr ""
+
+#: includes/help.slider_options.php:14 includes/options_page.php:83
+msgid "Display Settings"
+msgstr ""
+
+#: includes/help.slider_options.php:14
+msgid ""
+"This section allows you to change the content that displays in your sliders."
+msgstr ""
+
+#: includes/help.slider_options.php:16
+msgid "Choose a navigation display for your slider"
+msgstr ""
+
+#: includes/help.slider_options.php:16
+msgid ""
+"Enabling the slider navigation allows users different methods of browsing "
+"the slides. The default and fancy navigation work the same, but the fancy "
+"navigation uses a nice background image.  Both the default and fancy "
+"navigation allow users to move forward or backward a slide, or to access a "
+"slide by clicking on the slide number.  The slider navigation links option "
+"displays a forward and back button on the slider when a user moves their "
+"mouse over the slider.  This is a good option if you want to provide "
+"navigation without using extra space or detracting from the slider's "
+"contents. The thumbnail navigation displays below the slider and allows "
+"users to move forward or backward, or to view a particular slide by clicking "
+"on a thumbnail image."
+msgstr ""
+
+#: includes/help.slider_options.php:17
+msgid "Choose a title display for your slider"
+msgstr ""
+
+#: includes/help.slider_options.php:17
+msgid ""
+"When enabled, the title of your promotions will display in the slider.  The "
+"default title will display just the text, while the fancy title display will "
+"show the title with a nice background image."
+msgstr ""
+
+#: includes/help.slider_options.php:18 includes/options_page.php:118
+msgid "Should we display the excerpt in your slider?"
+msgstr ""
+
+#: includes/help.slider_options.php:18
+msgid ""
+"Enabling this option will display the excerpt on each slide in your sliders."
+msgstr ""
+
+#: includes/help.slider_options.php:21 includes/options_page.php:133
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/help.slider_options.php:23
+msgid "Load Javascript In"
+msgstr ""
+
+#: includes/help.slider_options.php:23
+msgid ""
+"You can choose to load the JavaScript, which makes the slider actually work, "
+"in your theme's header or footer.  To load in the header, your theme should "
+"use the wp_head() function in the header.php file.  To load in the footer, "
+"your theme should use the wp_footer() function in the footer.php file.  By "
+"default, the JavaScript is loaded in the header, because many custom themes "
+"tend to have the wp_head() function and not the wp_footer() function.  We "
+"recommend loading the JavaScript in the footer if your theme supports it."
+msgstr ""
+
+#: includes/help.slider_options.php:28
+msgid "Documentation on Promotion Slider"
+msgstr ""
+
+#: includes/options_page.php:4
+msgid ""
+"The options below will change the settings for all of the Promotion Sliders "
+"running on your website.  If you want individual sliders to behave "
+"differently, please <a href=\"http://wordpress.org/extend/plugins/promotion-"
+"slider/faq/\" target=\"_blank\">read our documentation</a>."
+msgstr ""
+
+#: includes/options_page.php:24
+msgid "Start Slider On:"
+msgstr ""
+
+#: includes/options_page.php:26
+msgid "First Slide"
+msgstr ""
+
+#: includes/options_page.php:29
+msgid "Random Slide"
+msgstr ""
+
+#: includes/options_page.php:33
+msgid "Automatic Slide Advancement:"
+msgstr ""
+
+#: includes/options_page.php:35 includes/options_page.php:55
+#: includes/options_page.php:120
+msgid "On"
+msgstr ""
+
+#: includes/options_page.php:38 includes/options_page.php:58
+#: includes/options_page.php:123
+msgid "Off"
+msgstr ""
+
+#: includes/options_page.php:42
+msgid "Set Slider Time Delay:"
+msgstr ""
+
+#: includes/options_page.php:46
+msgid "Seconds"
+msgstr ""
+
+#: includes/options_page.php:53
+msgid "Pause Slider on Mouse Hover:"
+msgstr ""
+
+#: includes/options_page.php:62
+msgid "Default Image Size:"
+msgstr ""
+
+#: includes/options_page.php:64
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/options_page.php:67
+msgid "Medium"
+msgstr ""
+
+#: includes/options_page.php:70
+msgid "Large"
+msgstr ""
+
+#: includes/options_page.php:73
+msgid "Full Size"
+msgstr ""
+
+#: includes/options_page.php:88
+msgid "Choose a navigation display for your slider:"
+msgstr ""
+
+#: includes/options_page.php:90
+msgid "No Slider Navigation"
+msgstr ""
+
+#: includes/options_page.php:93
+msgid "Default Slider Navigation"
+msgstr ""
+
+#: includes/options_page.php:96
+msgid "Fancy Slider Navigation"
+msgstr ""
+
+#: includes/options_page.php:99
+msgid "Slider Navigation Links"
+msgstr ""
+
+#: includes/options_page.php:102
+msgid "Thumbnail Navigation"
+msgstr ""
+
+#: includes/options_page.php:106
+msgid "Choose a title display for your slider:"
+msgstr ""
+
+#: includes/options_page.php:108
+msgid "No Title Display"
+msgstr ""
+
+#: includes/options_page.php:111
+msgid "Default Title Display"
+msgstr ""
+
+#: includes/options_page.php:114
+msgid "Fancy Title Display"
+msgstr ""
+
+#: includes/options_page.php:138
+msgid "Load Javascript in:"
+msgstr ""
+
+#: includes/options_page.php:140
+msgid "Header"
+msgstr ""
+
+#: includes/options_page.php:143
+msgid "Footer"
+msgstr ""
+
+#: includes/options_page.php:151
+msgid "Save Settings"
+msgstr ""
+
+#: includes/options_page.php:170
+msgid "Donate $10, $25 or $50!"
+msgstr ""
+
+#: includes/options_page.php:172
+msgid ""
+"This plugin has cost me countless hours of work. If you use it, please "
+"donate a token of your appreciation!"
+msgstr ""
+
+#: includes/options_page.php:184
+msgid "Like this plugin?"
+msgstr ""
+
+#: includes/options_page.php:186
+msgid "Why not do any or all of the following:"
+msgstr ""
+
+#: includes/options_page.php:188
+msgid "%sLink to it%s so others can find out about it"
+msgstr ""
+
+#: includes/options_page.php:189
+msgid "%sGive it a 5 star rating%s at WordPress.org"
+msgstr ""
+
+#: includes/options_page.php:190
+msgid "%sDonate%s a token of your appreciation"
+msgstr ""
+
+#: includes/options_page.php:198
+msgid "Highly Recommended Plugins"
+msgstr ""
+
+#: includes/options_page.php:207
+msgid "Need support?"
+msgstr ""
+
+#: includes/options_page.php:211
+msgid "Read our documentation"
+msgstr ""
+
+#: includes/options_page.php:211
+msgid ""
+"Before you do anything else, read through our <a href=\"http://wordpress.org/"
+"extend/plugins/promotion-slider/faq/\" target=\"_blank\">documentation</a> "
+"to see if you can find the answer to your question."
+msgstr ""
+
+#: includes/options_page.php:212
+msgid "Visit the support forums"
+msgstr ""
+
+#: includes/options_page.php:212
+msgid ""
+"Before posting in the <a href=\"http://wordpress.org/tags/promotion-slider\" "
+"target\"_blank\">support forums</a>, check if someone has already answered a "
+"similar question.  <em>Help someone else while you are there!</em>"
+msgstr ""
+
+#: includes/options_page.php:213
+msgid "Get in touch"
+msgstr ""
+
+#: includes/options_page.php:213
+msgid ""
+"We are happy to provide <a href=\"http://www.orderofbusiness.net/request-"
+"quote/\" target=\"_blank\">support</a> for any issues you may be having, but "
+"we do charge for our services."
+msgstr ""
+
+#: includes/options_page.php:221
+msgid "Plugin Feedback"
+msgstr ""
+
+#: includes/options_page.php:223
+msgid ""
+"We take <a href=\"http://www.orderofbusiness.net/contact-us/plugin-feedback/"
+"\" target=\"_blank\">feedback from our users</a> very seriously."
+msgstr ""
+
+#: includes/options_page.php:224
+msgid "Please get in touch if you have:"
+msgstr ""
+
+#: includes/options_page.php:226
+msgid "Feature Requests"
+msgstr ""
+
+#: includes/options_page.php:227
+msgid "Suggestions for Improvement"
+msgstr ""
+
+#: includes/options_page.php:228
+msgid "Bug Reports"
+msgstr ""
+
+#: includes/options_page.php:236
+msgid "Latest News"
+msgstr ""

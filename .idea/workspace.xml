@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gallery.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/gallery.php">
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="48" selection-start="265" selection-end="265" vertical-scroll-proportion="-0.052447554">
+            <state line="73" column="125" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.22222222">
               <folding />
             </state>
           </provider>
@@ -45,15 +45,16 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/library/functions/utility.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/nivo-slider-for-wordpress/nivoslider4wp-show.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/menu-primary.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/gallery.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/pageofposts.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/pagewithoutsidebar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/blog.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/gallery.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/searchform.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
       </list>
     </option>
   </component>
@@ -239,14 +240,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2215478" sideWeight="0.5622951" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23292868" sideWeight="0.5622951" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -344,11 +345,6 @@
         <state line="35" column="13" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="108" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.02972028" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/page-template-home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -356,49 +352,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/pagewithoutsidebar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="268" selection-end="268" vertical-scroll-proportion="0.34871796">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="50" selection-start="2274" selection-end="2274" vertical-scroll-proportion="1.6625874">
-          <folding />
-        </state>
+        <state line="12" column="37" selection-start="268" selection-end="268" vertical-scroll-proportion="0.34871796" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="69" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6066434">
-          <folding />
-        </state>
+        <state line="46" column="69" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6066434" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3240" column="17" selection-start="65283" selection-end="65283" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="57" selection-start="1745" selection-end="1763" vertical-scroll-proportion="1.4388112">
-          <folding />
-        </state>
+        <state line="46" column="54" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="51" selection-start="951" selection-end="951" vertical-scroll-proportion="0.46503496">
+        <state line="9" column="46" selection-start="111" selection-end="141" vertical-scroll-proportion="0.02972028" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="72" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3250" column="0" selection-start="65524" selection-end="65524" vertical-scroll-proportion="0.7325175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="178" selection-end="178" vertical-scroll-proportion="0.35664335">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/gallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="48" selection-start="265" selection-end="265" vertical-scroll-proportion="-0.052447554">
+        <state line="6" column="22" selection-start="61" selection-end="61" vertical-scroll-proportion="0.17832167">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="125" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.22222222">
           <folding />
         </state>
       </provider>

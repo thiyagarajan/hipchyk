@@ -1,0 +1,7 @@
+.postbox ul, .postbox li { list-style-type:disc; margin-left:10px; }
+.postbox .inside { padding:0 10px; }
+#donate { border:2px solid green; }
+#donate .hndle { color:green; }
+#donate form { text-align:center; margin-bottom:10px; }
+#recommendations .inside { padding:10px; }
+#recommendations a { margin:0 5px 5px 0; }

@@ -3244,3 +3244,15 @@ a.button {
     float: none;
     padding: 0;
 }
+
+.twit .reviews-t, #footer .flickr .alignleft-f, #footer .slider_container_1 {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.slider_container_1 {
+    border-radius: 3px 3px 3px 3px;
+    float: left;
+    margin: 5px 0 0;
+    padding: 4px;
+    width: 202px;
+}

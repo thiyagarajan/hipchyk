@@ -15,7 +15,16 @@
 <html <?php language_attributes(); ?>>
 <head>
 <meta http-equiv="Content-Type" content="<?php bloginfo( 'html_type' ); ?>; charset=<?php bloginfo( 'charset' ); ?>" />
-<title><?php hybrid_document_title(); ?></title>
+<title><?php
+if (is_home())
+{
+echo "Home";
+}
+else
+{
+echo get_the_title(); ?><?php //hybrid_document_title();
+}
+?></title>
 
 <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="all" />
 <script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/scripts.js"></script>
