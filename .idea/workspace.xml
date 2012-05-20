@@ -22,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="125" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.0">
+            <state line="63" column="62" selection-start="2072" selection-end="2072" vertical-scroll-proportion="0.31282052">
               <folding />
             </state>
           </provider>
@@ -40,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.7325175">
+            <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,9 +70,9 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/blog.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/gallery.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/searchform.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
       </list>
     </option>
   </component>
@@ -411,16 +411,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="125" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.0">
+        <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.7325175">
+        <state line="63" column="62" selection-start="2072" selection-end="2072" vertical-scroll-proportion="0.31282052">
           <folding />
         </state>
       </provider>
