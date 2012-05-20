@@ -2910,7 +2910,7 @@ ol.comment-list .avatar {
     margin-top: 0;
     overflow: hidden;
     position: absolute;
-    right: -17px;
+    right: 0;
     width: 180px;
 }
 

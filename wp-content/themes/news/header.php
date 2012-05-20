@@ -100,13 +100,8 @@ echo get_the_title(); ?><?php //hybrid_document_title();
                    		<section class="one-fourth">
                      		<h2>RECENT PHOTOS</h2>
                        			<div class="flickr">
-                         			<a href="#" class="alignleft-f"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/58x58.jpg" width="58" height="58" alt="" /><i></i></a>
-                         			<a href="#" class="alignleft-f"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/58x58-1.jpg" width="58" height="58" alt="" /><i></i></a>
-                         			<a href="#" class="alignleft-f"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/58x58-2.jpg" width="58" height="58" alt="" /><i></i></a>
-                         			<a href="#" class="alignleft-f"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/58x58-3.jpg" width="58" height="58" alt="" /><i></i></a>
-                         			<a href="#" class="alignleft-f"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/58x58-4.jpg" width="58" height="58" alt="" /><i></i></a>
-                         			<a href="#" class="alignleft-f"><img src="<?php echo get_bloginfo('template_directory'); ?>/images/58x58-5.jpg" width="58" height="58" alt="" /><i></i></a>
-                       			</div>
+                       			<?php echo do_shortcode('[catablog template="RecentPhotos" limit="6"  navigation="disable" sort="date" order="desc"]'); ?>
+                         		</div>
              			</section>
 
 

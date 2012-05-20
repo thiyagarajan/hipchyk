@@ -31,10 +31,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3260" column="3" selection-start="65686" selection-end="65686" vertical-scroll-proportion="0.91083914">
+            <state line="2912" column="12" selection-start="58933" selection-end="58933" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.7325175">
               <folding />
             </state>
           </provider>
@@ -59,11 +68,11 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/pageofposts.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/pagewithoutsidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/blog.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/gallery.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/searchform.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
       </list>
     </option>
   </component>
@@ -249,7 +258,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -369,19 +378,9 @@
         <state line="46" column="69" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6066434" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="54" selection-start="2041" selection-end="2041" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/blog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="46" selection-start="111" selection-end="141" vertical-scroll-proportion="0.02972028" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="72" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
@@ -398,6 +397,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="83" selection-start="1761" selection-end="1761" vertical-scroll-proportion="1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2912" column="12" selection-start="58933" selection-end="58933" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="125" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.0">
@@ -405,9 +418,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3260" column="3" selection-start="65686" selection-end="65686" vertical-scroll-proportion="0.91083914">
+        <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.7325175">
           <folding />
         </state>
       </provider>
