@@ -22,28 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
+      <file leaf-file-name="page.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="62" selection-start="2072" selection-end="2072" vertical-scroll-proportion="0.31282052">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2912" column="12" selection-start="58933" selection-end="58933" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.0">
+            <state line="39" column="32" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.02972028">
               <folding />
             </state>
           </provider>
@@ -64,7 +46,6 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/nivo-slider-for-wordpress/nivoslider4wp-show.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/menu-primary.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/index.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/pageofposts.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/pagewithoutsidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/blog.php" />
@@ -73,6 +54,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/page.php" />
       </list>
     </option>
   </component>
@@ -258,7 +240,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -373,11 +355,6 @@
         <state line="12" column="37" selection-start="268" selection-end="268" vertical-scroll-proportion="0.34871796" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="69" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.6066434" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/blog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="46" selection-start="111" selection-end="141" vertical-scroll-proportion="0.02972028" />
@@ -421,6 +398,13 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="62" selection-start="2072" selection-end="2072" vertical-scroll-proportion="0.31282052">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="32" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.02972028">
           <folding />
         </state>
       </provider>

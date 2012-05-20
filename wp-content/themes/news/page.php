@@ -37,7 +37,7 @@ get_header(); ?>
 							<?php wp_link_pages( array( 'before' => '<p class="page-links">' . __( 'Pages:', hybrid_get_textdomain() ), 'after' => '</p>' ) ); ?>
 						</div><!-- .entry-content -->
 
-						<?php echo apply_atomic_shortcode( 'entry_meta', '<div class="entry-meta">' . __( '<span class="share">Share this on:</span> [entry-mixx-link] [entry-delicious-link] [entry-digg-link] [entry-facebook-link] [entry-twitter-link]', hybrid_get_textdomain() ) . '</div>' ); ?>
+						<?php //echo apply_atomic_shortcode( 'entry_meta', '<div class="entry-meta">' . __( '<span class="share">Share this on:</span> [entry-mixx-link] [entry-delicious-link] [entry-digg-link] [entry-facebook-link] [entry-twitter-link]', hybrid_get_textdomain() ) . '</div>' ); ?>
 
 						<?php do_atomic( 'close_loop' ); // Close loop hook ?>
 
