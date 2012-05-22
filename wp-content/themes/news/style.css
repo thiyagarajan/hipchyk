@@ -3260,3 +3260,29 @@ a.button {
 input[name="your-name"] {
 
 }
+
+#sidebar-primary .widget_mostlikedpostswidget h3.widget-title {
+    font-size: 18px;
+    color: white;
+    padding: 0;
+    margin: 0 0 10px 0;
+    line-height: 18px;
+}
+
+#sidebar-primary .widget_mostlikedpostswidget ul li {
+    width: 210px;
+    float: left;
+    background: url(images/ancient/type-spread.png) repeat-x 0 top;
+    padding: 1px 0 14px 0;
+    font: 12px/20px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #66655F;
+    padding: 15px 0 15px 0;
+    text-shadow: #F0EFEA 1px 1px 0;
+}
+
+#sidebar-primary .widget_mostlikedpostswidget ul li a {
+
+    font: 12px/20px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #66655F;
+    text-shadow: #F0EFEA 1px 1px 0;
+}

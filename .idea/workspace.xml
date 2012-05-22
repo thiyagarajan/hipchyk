@@ -21,7 +21,17 @@
     <favorites_list name="hipchyk" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3278" column="27" selection-start="66152" selection-end="66152" vertical-scroll-proportion="0.7027972">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -41,17 +51,17 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/blog.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/gallery.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/searchform.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1036" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -80,22 +90,86 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="hipchyk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -166,14 +240,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1036" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23292868" sideWeight="0.5622951" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23868313" sideWeight="0.5622951" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -241,11 +315,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/special-recent-posts/classes/class-main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="10" selection-start="1614" selection-end="1614" vertical-scroll-proportion="0.21402878" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/library/hybrid.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.478417" />
@@ -288,49 +357,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/searchform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="178" selection-end="178" vertical-scroll-proportion="0.35664335">
-          <folding />
-        </state>
+        <state line="12" column="4" selection-start="178" selection-end="178" vertical-scroll-proportion="0.35664335" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/gallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="22" selection-start="61" selection-end="61" vertical-scroll-proportion="0.17832167">
-          <folding />
-        </state>
+        <state line="6" column="22" selection-start="61" selection-end="61" vertical-scroll-proportion="0.17832167" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="83" selection-start="1761" selection-end="1761" vertical-scroll-proportion="1.3076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2912" column="12" selection-start="58933" selection-end="58933" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="44" column="83" selection-start="1761" selection-end="1761" vertical-scroll-proportion="1.3076923" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="102" column="91" selection-start="4600" selection-end="4600" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="62" selection-start="2072" selection-end="2072" vertical-scroll-proportion="0.31282052">
-          <folding />
-        </state>
+        <state line="63" column="62" selection-start="2072" selection-end="2072" vertical-scroll-proportion="0.31282052" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="32" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.02972028">
+        <state line="39" column="32" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.02972028" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3278" column="27" selection-start="66152" selection-end="66152" vertical-scroll-proportion="0.7027972">
           <folding />
         </state>
       </provider>
