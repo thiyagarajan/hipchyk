@@ -127,9 +127,11 @@ class MostLikedPosts
 				$post_title = stripslashes($post->post_title);
 				$permalink = get_permalink($post->post_id);
 				$like_count = $post->like_count;
+				$post_date = get_the_date();
 				
 				$widget_data .= '<li><a href="' . $permalink . '" title="' . $post_title.'" rel="nofollow">' . $post_title . '</a>';
-				$widget_data .= $show_count == '1' ? ' ('.$like_count.')' : '';
+				//$widget_data .= $show_count == '1' ? ' ('.$like_count.')' : '';
+				$widget_data .= '<div class="goto-post"><span class="ico-link date">' .$post_date. '</span><span class="ico-link likes">' .$like_count. ' likes</span></div>';
 				$widget_data .= '</li>';
 			}
 		} else {

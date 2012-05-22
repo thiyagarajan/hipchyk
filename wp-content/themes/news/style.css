@@ -3286,3 +3286,17 @@ input[name="your-name"] {
     color: #66655F;
     text-shadow: #F0EFEA 1px 1px 0;
 }
+
+.goto-post span {
+    color: #121212;
+    font-size: 10px;
+}
+
+.goto-post span.likes {
+    float: right;
+}
+
+.goto-post span {
+    color: #121212;
+    font-size: 10px;
+}

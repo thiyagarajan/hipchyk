@@ -22,10 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3278" column="27" selection-start="66152" selection-end="66152" vertical-scroll-proportion="0.7027972">
+            <state line="3301" column="1" selection-start="66541" selection-end="66541" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wti_like.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wti-like-post/wti_like.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="72" selection-start="2945" selection-end="2945" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wti_like_class.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/wti-like-post/wti_like_class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="129" column="42" selection-start="5455" selection-end="5455" vertical-scroll-proportion="0.41958043">
               <folding />
             </state>
           </provider>
@@ -55,6 +73,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/news/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/news/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wti-like-post/wti_like_class.php" />
       </list>
     </option>
   </component>
@@ -154,11 +173,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hipchyk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="news" />
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wti-like-post" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -315,11 +352,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/news/library/hybrid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.478417" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/library/functions/utility.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="126" column="93" selection-start="4683" selection-end="4683" vertical-scroll-proportion="0.0" />
@@ -385,9 +417,23 @@
         <state line="39" column="32" selection-start="1354" selection-end="1354" vertical-scroll-proportion="0.02972028" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wti-like-post/wti_like.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="72" selection-start="2945" selection-end="2945" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/news/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3278" column="27" selection-start="66152" selection-end="66152" vertical-scroll-proportion="0.7027972">
+        <state line="3301" column="1" selection-start="66541" selection-end="66541" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wti-like-post/wti_like_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="42" selection-start="5455" selection-end="5455" vertical-scroll-proportion="0.41958043">
           <folding />
         </state>
       </provider>
